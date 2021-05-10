@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "161453",
+      "name": "mine",
+      "font_class": "mine",
+      "unicode": "f0182",
+      "unicode_decimal": 983426
+    },
+    {
+      "icon_id": "712650",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1393662",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "18991688",
+      "name": "news",
+      "font_class": "news",
+      "unicode": "e869",
+      "unicode_decimal": 59497
+    }
+  ]
+}
